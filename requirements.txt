@@ -1,0 +1,8 @@
+joblib==1.2.0
+matplotlib==3.6.2
+mediapipe==0.9.0.1
+numpy==1.24.1
+opencv-python==4.4.0.46
+pandas==1.5.2
+pynput==1.7.6
+scikit-learn==1.2.0
