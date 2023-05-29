@@ -1,4 +1,4 @@
-# CZ4079 Final Year Project - Typing Without Hand
+# CZ4079 Final Year Project - Typing Without Hands
 
 Some people with disability are unable to use the regular keyboard as they are unable to use their hands and fingers. In this project, the student is required to implement a vision-based system that is able to track the head movement of the user via the webcam and move a cursor on a virtual keyboard on the screen. As part of the project, the student will investigate which is the fastest and most reliable way to use such a setup to type by designing various hands-free vision-based typing strategies. Appropriate user studies will be conducted to evaluate the various methods.
 
